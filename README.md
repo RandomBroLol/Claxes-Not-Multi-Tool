@@ -16,3 +16,10 @@ Not a Full Multi tool tho WORKS ONLY FOR WINDOWS! 8.1 TO 11
 12.ℹ️Discord Server Info
 13.⚠️Your Ip adress
 14.🆎About
+
+# Requirements:
+Have python newest
+Have Pip installed
+And open the Setup.bat file
+and when its done close it and open
+Start.bat
