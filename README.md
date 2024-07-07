@@ -19,6 +19,12 @@ Not a Full Multi tool tho WORKS ONLY FOR WINDOWS! 8.1 TO 11
 15.🚀 Python File Creator
 16🔐Log Out Any User on computer
 17.🎫 your discord Token(NOT BEING SEND TO ANYONE!)
+18.💠 Search On any engine
+19.🚫Fake Error Creator
+20.💻🖥 Send Message To All Computers That are On The Network
+21.🎚 Custom CMD
+22. 🖼 Image to ASCII
+
 # Requirements:
 Have python newest
 Have Pip installed
